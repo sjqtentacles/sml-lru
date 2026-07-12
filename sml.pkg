@@ -1,4 +1,5 @@
 package github.com/sjqtentacles/sml-lru
 
 require {
+  github.com/sjqtentacles/sml-check
 }
